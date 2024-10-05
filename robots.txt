@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://datitylo.github.io/sitemap.html.gz
+Sitemap: https://datitylo.github.io/app/sitemap.html.gz
+Sitemap: https://datitylo.github.io/assets/sitemap.html.gz
+Sitemap: https://datitylo.github.io/css/sitemap.html.gz
+Sitemap: https://datitylo.github.io/data/sitemap.html.gz
+Sitemap: https://datitylo.github.io/includes/sitemap.html.gz
+Sitemap: https://datitylo.github.io/item/sitemap.html.gz
+Sitemap: https://datitylo.github.io/src/sitemap.html.gz
